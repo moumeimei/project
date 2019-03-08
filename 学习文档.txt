@@ -1,0 +1,5 @@
+composer安装：
+1.composer中文网下载composer.exe 
+2.查看php版本确定其路径，打开cmd 直接输出php报错,则php不是全局变量，可到电脑-->属性-->高级配置-->环境变量-->系统变量中找到path-->将php路径放入并以英文 ';'分割,保存，在cmd中直接输php，回车，不报错，则证明设置成功。
+3.安装composer;选择路径：例如“E:\phpStudy\PHPTutorial\php\php-7.0.12-nts\php.exe”；继续安装
+4.在cmd中输入composer回车，出现composer则安装成功。
